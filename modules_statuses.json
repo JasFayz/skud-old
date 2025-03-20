@@ -1,0 +1,15 @@
+{
+    "Admin": true,
+    "Role": true,
+    "Booking": true,
+    "Skud": true,
+    "Access": true,
+    "Attendance": false,
+    "HR": true,
+    "Common": false,
+    "Report": true,
+    "Visitor": true,
+    "Frontend": true,
+    "User": true,
+    "RemoteClient": true
+}

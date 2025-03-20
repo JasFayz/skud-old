@@ -1,0 +1,11 @@
+{
+    "name": "Skud",
+    "alias": "skud",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Skud\\Providers\\SkudServiceProvider"
+    ],
+    "files": []
+}
